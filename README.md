@@ -1,5 +1,8 @@
 # project-blog-ecommerce-node-express-mongodb
 
+### Notes: 
+You can get html templates here: [get folder assets](https://anonystick.com/blog-developer/de-tai-build-mot-blog-chat-su-dung-nodejs-expressjs-mongodb-firebase-2020041522880531)
+
 1  - Setup project
 
 1 - 1 Install nodejs
